@@ -1,0 +1,6 @@
+export const playarr=[{name: "la3ib_1", team: "farii9_1", nationality: "tunisian", jerseyNumber:"10", age:22, url:"https://media.gettyimages.com/id/1442710081/photo/tunisia-portraits-fifa-world-cup-qatar-2022.jpg?s=2048x2048&w=gi&k=20&c=f-KhXBMf2ka8kb3m9wQd7l-hTgRGu_TOIMsBsJU4adk="},
+{name: "la3ib_2", team: "farii9_2", nationality: "tunisian", jerseyNumber:"11", age:23, url:"https://media.gettyimages.com/id/1442513963/photo/tunisia-portraits-fifa-world-cup-qatar-2022.jpg?s=2048x2048&w=gi&k=20&c=f1QuXB4Os71x0xh-u4BsMf3g-bolE4YDTYgSJoz84mY="},
+{name: "la3ib_3", team: "farii9_3", nationality: "tunisian", jerseyNumber:"12", age:24, url:"https://media.gettyimages.com/id/612549816/photo/badra-khaled-controlling-the-soccer-ball.jpg?s=2048x2048&w=gi&k=20&c=QmvQagcrF-C8H5KDCwIMPKfI2Bp9oDoX8G19rCeTVFo="},
+{name: "la3ib_4", team: "farii9_4", nationality: "tunisian", jerseyNumber:"13", age:25, url:"https://media.gettyimages.com/id/1493307333/photo/group-e-fifa-u-20-world-cup-argentina-2023.jpg?s=2048x2048&w=gi&k=20&c=26mXyVQofR5tDZ8cz2idzv3t5mylkaH-S8fpz84n_nM="},
+{name: "la3ib_5", team: "farii9_5", nationality: "tunisian", jerseyNumber:"14", age:26, url:"https://media.gettyimages.com/id/1445790317/photo/group-d-fifa-world-cup-qatar-2022.jpg?s=2048x2048&w=gi&k=20&c=fHFjsHNH5smtaKAevA43fACOg3k-DE4kG0EegBViWfU="}];
+
